@@ -3,13 +3,13 @@
 This project aims to develop a machine learning model for predicting the maximum credit limit (US Dollar) for credit card users. The credit limits are categorized into four distinct classes. 
 
 
-Class 1 = credit limit <= 100,000
+Class 1 = credit limit <= 100,000 (maximum = 99,999)
 
-Class 2 = credit limit > 100,000 & <= 200000
+Class 2 = credit limit > 100,000 & <= 200000 (maximum = 199,999)
 
-Class 3 = credit limit > 100,000 & <= 300000
+Class 3 = credit limit > 100,000 & <= 300000 (maximum = 299,999)
 
-Class 4 = credit limit > 300,000
+Class 4 = credit limit > 300,000 (maximum = 1,000,000)
 
 To achieve our objective, I have employed a combination of deep learning and random forest models. 
 
