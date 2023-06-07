@@ -1,6 +1,6 @@
 # Maximum-Credit-Limit-Prediction
 
-This project aims to develop a machine learning model for predicting the maximum credit limit (US Dollar). The credit limits are categorized into four distinct classes. 
+This project aims to develop a machine learning model for predicting the maximum credit limit (US Dollar) for credit card users. The credit limits are categorized into four distinct classes. 
 
 
 Class 1 = credit limit <= 100,000
